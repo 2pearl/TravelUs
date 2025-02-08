@@ -1,9 +1,10 @@
 # :family: TravelUs
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ad486451-9552-44bb-bad9-486cb75bac27" width="600">
+</p>
+
 ### AI 기술 기반의 해외여행 모임통장 서비스
-
-![main](https://github.com/user-attachments/assets/ad486451-9552-44bb-bad9-486cb75bac27)
-
 - 배포 링크: https://j11d209.p.ssafy.io
 - 모바일 기반의 PWA를 적용한 어플리케이션이기 때문에 모바일 환경에서 사용을 권장합니다.
 
@@ -23,29 +24,19 @@
 
 5. :pencil: **ERD**
 
-6. 💻 ** 빌드 및 실행방법 **
+6. 💻 **빌드 및 실행방법**
 
 7. :tv: **구현 화면(사용 플로우)**
    
    :one: 회원가입 및 로그인
-   
    :two: 메인 페이지
-   
-   :three: 모임통장 개설 
-   
-   :four: 환율 확인 
-   
-   :five: 이체 기능  
-   
-   :six: 환전 기능
-   
-   :seven: 정산 기능 
-   
-   :eight: 이체 기록 확인
-   
-   :nine: 가계부 기능
+   :three: 통장 개설
+   :six: 모임원 관리
+   :seven: 환율 및 환율 예측 조회
+   :eight: 머니로그
+   :nine: 지출 정산
 
-8. :+1: **멤버**
+9. :+1: **멤버**
 
 ## :golf: 프로젝트 소개
 
@@ -62,8 +53,9 @@
 ### 여행 이후에는 개별 지출에 대한 정산로직을 구현하여 정산
 
 ## :closed_book:시스템 아키텍처
-
-![architecture](https://github.com/user-attachments/assets/1d11f179-deeb-4c72-8b00-f2200b6c969f)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/1d11f179-deeb-4c72-8b00-f2200b6c969f" width="900">
+</p>
 
 ## :file_folder: 기술 스택
 
@@ -126,59 +118,100 @@
 -----
 
 ## :pencil: ERD
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0607e50c-b301-41d3-bf31-a7a469d1f239" width="800">
+</p>
 
-![GOOFY](https://github.com/user-attachments/assets/0607e50c-b301-41d3-bf31-a7a469d1f239)
 
 ## :tv: 구현 화면
 
-#### :one: 회원가입 및 로그인
-- 회원가입<br>
-![회원가입](https://github.com/user-attachments/assets/3839c68f-93bb-4c24-95e4-5bae765417f8)
-![주소_입력](https://github.com/user-attachments/assets/cc3aa7f3-047f-40d1-a9af-8d673d203be6)
+### :one: 회원가입 및 로그인
+<table>
+  <tr>
+    <td align="center"><b>회원가입</b></td>
+    <td align="center"><b>주소 입력</b></td>
+    <td align="center"><b>로그인</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3839c68f-93bb-4c24-95e4-5bae765417f8" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/cc3aa7f3-047f-40d1-a9af-8d673d203be6" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/47c0135e-11f3-419b-81fd-8008f0fe0d5d" width="300"></td>
+  </tr>
+</table>
 
-- 로그인
+### :two: 메인 페이지
+<table>
+  <tr>
+    <td align="center"><b>최초 입장 메인</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c445eaba-2c8a-4010-9781-d6bd3a75a5fd" width="300"></td>
+  </tr>
+</table>
 
+### :three: 통장 개설
+<table>
+  <tr>
+    <td align="center"><b>입출금 통장 개설</b></td>
+    <td align="center"><b>모임 통장 개설</b></td>
+    <td align="center"><b>외화저금통 생성</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ef591f3e-dacd-4438-8d5c-862735675613" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/3a236373-86e1-4484-b229-a4f410bdbfad" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/78d18599-1f96-483a-b115-94e50449d5e4" width="300"></td>
+  </tr>
+</table>
 
-![로그인](https://github.com/user-attachments/assets/47c0135e-11f3-419b-81fd-8008f0fe0d5d)
-
-#### :two: 메인 페이지
-![최초 입장 메인](https://github.com/user-attachments/assets/c445eaba-2c8a-4010-9781-d6bd3a75a5fd)
-
-#### :three: 통장 개설
-##### 입출금 통장 개설
-![입출금 통장 개설](https://github.com/user-attachments/assets/ef591f3e-dacd-4438-8d5c-862735675613)
-
-##### 모임 통장 개설
-![모임 통장 개설](https://github.com/user-attachments/assets/3a236373-86e1-4484-b229-a4f410bdbfad)
-
-##### 외화저금통 생성
-![외화저금통 생성](https://github.com/user-attachments/assets/78d18599-1f96-483a-b115-94e50449d5e4)
-
-### :four: 이체 관련
-#### 모임 통장 입금
-![모임 통장 입금](https://github.com/user-attachments/assets/bc910e84-d81b-4876-bdf5-bbf47354efe5)
-
-#### 외화로 환전하기
-![외화로 환전하기](https://github.com/user-attachments/assets/d250eaec-d0c8-40d7-a523-463409729b0c)
-
-#### 원화로 환전하기
-![원화로 환전하기](https://github.com/user-attachments/assets/02357f9e-3b58-4fb9-b7c8-97b5fd4c3b54)
-
-### :five: 카드 신청
-![카드 신청](https://github.com/user-attachments/assets/69ee11c5-85bd-40d4-ae9a-e5fcbe372f47)
-
-### :six: 모임원 관리 페이지
-![관리 페이지](https://github.com/user-attachments/assets/9eb109ef-b103-45df-96a0-565b68249562)
+### :six: 모임원 관리
+<table>
+  <tr>
+    <td align="center"><b>모임원 관리</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9eb109ef-b103-45df-96a0-565b68249562" width="300"></td>
+  </tr>
+</table>
 
 ### :seven: 환율 및 환율 예측 조회
-![환율 및 환율 예측 조회](https://github.com/user-attachments/assets/ba354116-a5fe-43b5-afa8-ae06600e53ee)
+<table>
+  <tr>
+    <td align="center"><b>환율 및 환율 예측 조회</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ba354116-a5fe-43b5-afa8-ae06600e53ee" width="300"></td>
+  </tr>
+</table>
 
-### :eight: 머니로그 사용
-![머니 로그 사용](https://github.com/user-attachments/assets/b296b054-762f-4ec2-bd82-0fdb3e2ff5d2)
+### :eight: 머니로그
+<table>
+  <tr>
+    <td align="center"><b>머니로그 조회</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b296b054-762f-4ec2-bd82-0fdb3e2ff5d2" width="300"></td>
+  </tr>
+</table>
 
-### :nine: 정산하기
+### :nine: 지출 정산
+<table>
+  <tr>
+    <td align="center"><b>개별 지출 정산</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/df9bb590-d6f5-4c9e-927f-2aa30439a101" width="300"></td>
+    
+  </tr>
+</table>
 
-
-# :+1: 멤버
-![멤버_사진_1](https://github.com/user-attachments/assets/8c5ca174-08b0-4da2-8f17-06d66519776f)
-![멤버_사진_2](https://github.com/user-attachments/assets/eee2f7be-8b77-41ff-9741-67500d65ae49)
+## :+1: 멤버
+<table>
+  <tr>
+    <td align="center"><b>멤버 1</b></td>
+    <td align="center"><b>멤버 2</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8c5ca174-08b0-4da2-8f17-06d66519776f" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/eee2f7be-8b77-41ff-9741-67500d65ae49" width="500"></td>
+  </tr>
+</table>
