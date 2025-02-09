@@ -133,9 +133,9 @@
     <td align="center"><b>로그인</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3839c68f-93bb-4c24-95e4-5bae765417f8" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/cc3aa7f3-047f-40d1-a9af-8d673d203be6" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/47c0135e-11f3-419b-81fd-8008f0fe0d5d" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/3839c68f-93bb-4c24-95e4-5bae765417f8" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/cc3aa7f3-047f-40d1-a9af-8d673d203be6" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/47c0135e-11f3-419b-81fd-8008f0fe0d5d" width="200"></td>
   </tr>
 </table>
 
@@ -145,7 +145,7 @@
     <td align="center"><b>최초 입장 메인</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c445eaba-2c8a-4010-9781-d6bd3a75a5fd" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/c445eaba-2c8a-4010-9781-d6bd3a75a5fd" width="200"></td>
   </tr>
 </table>
 
@@ -157,9 +157,9 @@
     <td align="center"><b>외화저금통 생성</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ef591f3e-dacd-4438-8d5c-862735675613" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/3a236373-86e1-4484-b229-a4f410bdbfad" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/78d18599-1f96-483a-b115-94e50449d5e4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/ef591f3e-dacd-4438-8d5c-862735675613" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/3a236373-86e1-4484-b229-a4f410bdbfad" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/78d18599-1f96-483a-b115-94e50449d5e4" width="200"></td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@
     <td align="center"><b>모임원 관리</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9eb109ef-b103-45df-96a0-565b68249562" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/9eb109ef-b103-45df-96a0-565b68249562" width="200"></td>
   </tr>
 </table>
 
@@ -179,7 +179,7 @@
     <td align="center"><b>환율 및 환율 예측 조회</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ba354116-a5fe-43b5-afa8-ae06600e53ee" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/ba354116-a5fe-43b5-afa8-ae06600e53ee" width="200"></td>
   </tr>
 </table>
 
@@ -189,7 +189,7 @@
     <td align="center"><b>머니로그 조회</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b296b054-762f-4ec2-bd82-0fdb3e2ff5d2" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/b296b054-762f-4ec2-bd82-0fdb3e2ff5d2" width="200"></td>
   </tr>
 </table>
 
@@ -199,7 +199,7 @@
     <td align="center"><b>개별 지출 정산</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/df9bb590-d6f5-4c9e-927f-2aa30439a101" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/df9bb590-d6f5-4c9e-927f-2aa30439a101" width="200"></td>
     
   </tr>
 </table>
