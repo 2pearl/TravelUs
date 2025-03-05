@@ -155,11 +155,13 @@
     <td align="center"><b>입출금 통장 개설</b></td>
     <td align="center"><b>모임 통장 개설</b></td>
     <td align="center"><b>외화저금통 생성</b></td>
+    <td align="center"><b>희망 환율 설정</b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ef591f3e-dacd-4438-8d5c-862735675613" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/3a236373-86e1-4484-b229-a4f410bdbfad" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/78d18599-1f96-483a-b115-94e50449d5e4" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/37cce4b9-19a5-4ae0-98dc-7dea092f8888" width="200"></td>
   </tr>
 </table>
 
@@ -200,7 +202,6 @@
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/df9bb590-d6f5-4c9e-927f-2aa30439a101" width="200"></td>
-    
   </tr>
 </table>
 
