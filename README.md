@@ -31,10 +31,10 @@
    :one: 회원가입 및 로그인
    :two: 메인 페이지
    :three: 통장 개설
-   :six: 모임원 관리
-   :seven: 환율 및 환율 예측 조회
-   :eight: 머니로그
-   :nine: 지출 정산
+   :four: 모임원 관리
+   :five: 환율 및 환율 예측 조회
+   :six: 머니로그
+   :seven: 지출 정산
 
 9. :+1: **멤버**
 
@@ -165,7 +165,7 @@
   </tr>
 </table>
 
-### :six: 모임원 관리
+### :four: 모임원 관리
 <table>
   <tr>
     <td align="center"><b>모임원 관리</b></td>
@@ -175,7 +175,7 @@
   </tr>
 </table>
 
-### :seven: 환율 및 환율 예측 조회
+### :five: 환율 및 환율 예측 조회
 <table>
   <tr>
     <td align="center"><b>환율 및 환율 예측 조회</b></td>
@@ -185,7 +185,7 @@
   </tr>
 </table>
 
-### :eight: 머니로그
+### :six: 머니로그
 <table>
   <tr>
     <td align="center"><b>머니로그 조회</b></td>
@@ -195,7 +195,7 @@
   </tr>
 </table>
 
-### :nine: 지출 정산
+### :seven: 지출 정산
 <table>
   <tr>
     <td align="center"><b>개별 지출 정산</b></td>
